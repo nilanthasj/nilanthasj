@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./NSJ.png" alt="Nilantha Jayathilake Banner" width="100%" />
+  <img src="./NSJ.png" alt="Nilantha Jayathilake Banner" width="100%"  />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Nilantha Jayathilake.</h1>
